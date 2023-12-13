@@ -1,10 +1,9 @@
 ![logo](https://github.com/Tejas-Choudhari/Tejas-Choudhari/blob/main/5.jpg)
 <h1 align="center">Hi 👋, I'm Tejas_Choudhari</h1>
 <h3 align="center">"Namaste, I'm Tejas Choudhari | Exploring the Infinite Possibilities of Code 🌐 | Bit by Bit, Building Dreams 💡</h3>
-<img align="right" alt="development"width="400"src="">
+<img align="right" alt="development"width="400"src="https://github.com/Tejas-Choudhari/Tejas-Choudhari/blob/main/gitprofile.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-choudhari&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-choudhari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-choudhari" alt="tejas-choudhari" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
