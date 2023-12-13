@@ -1,3 +1,4 @@
+![logo](https://github.com/Tejas-Choudhari/Tejas-Choudhari/blob/main/5.jpg)
 <h1 align="center">Hi 👋, I'm Tejas_Choudhari</h1>
 <h3 align="center">"Namaste, I'm Tejas Choudhari | Exploring the Infinite Possibilities of Code 🌐 | Bit by Bit, Building Dreams 💡</h3>
 
