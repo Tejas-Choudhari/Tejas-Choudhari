@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **JAVA | SQL | Spring Boot | Rest API's | API Doc.(Swagger))**
+- 💬 Ask me about **JAVA | SQL | Spring Boot | Rest API's | API Doc.(Swagger)) | Kafka | Redis | Microservice Architecture| MongoDB | System Design**
 
 - 📫 How to reach me **tejaschoudhari3419@gmail.com**
 
